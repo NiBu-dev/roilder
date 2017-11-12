@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4d75e6</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="neptuneBlue">#bbceff</color>
+    <color name="fadingBlue">#FF4081</color>
+    <color name="back1">#c7f0c4</color>
+    <color name="back2">#bfddb5</color>
+    <color name="back3">#FF4081</color>
+</resources>

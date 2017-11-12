@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Roilder</string>
+    <string name="select_building">Select a building</string>
+    <string-array name="building_names">
+        <item>Building I</item>
+        <item>Building Q</item>
+        <item>Building A</item>
+        <item>Building E</item>
+        <item>Building K</item>
+    </string-array>
+    <string-array name="floor_numbers">
+        <item>0 floor</item>
+        <item>1\'st floor</item>
+        <item>2\'nd floor</item>
+        <item>3\'rd floor</item>
+        <item>4\'th floor</item>
+        <item>5\'th floor</item>
+    </string-array>
+    <string-array name="room_names">
+        <item>Main Entrance</item>
+        <item>IB 123</item>
+        <item>IB 342</item>
+        <item>IB 145</item>
+        <item>IE 220</item>
+        <item>IL 410</item>
+        <item>Buffe</item>
+        <item>Toillet</item>
+        <item>Coffee machine</item>
+        <item>IB 221</item>
+        <item>IB 213</item>
+        <item>IL 209</item>
+    </string-array>
+</resources>
